@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou Danilo Figueiredo!
+ 
+💼 Desenvolvedor fullstack Jnunior 
+🛠️ Skills: Python, MySQL, Power BI, VBA, Access  
+📫 Como me encontrar: danilo@email.com | [LinkedIn](https://www.linkedin.com/in/danilo-j-figueiredo-ab6246163/)  
+
+## 🚀 Projetos em destaque
+- 🔄 Automação de e-mails com Python e Outlook
+- 🗃️ Sistema de controle de movimentações financeiras com Python + Access + MySQL
+
+<!-- você pode adicionar badges, gifs ou imagens se quiser -->
 
 <!--
 **Danilo-DJF/Danilo-DJF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
