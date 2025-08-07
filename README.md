@@ -4,7 +4,7 @@
 🛠️ Skills: Python, MySQL, Power BI, VBA, Access  
 📫 Como me encontrar: danilo.figueiredo1997@hotmail.com | [LinkedIn](https://www.linkedin.com/in/danilo-j-figueiredo-ab6246163/)  
 
-## 🚀 Projetos em destaque
+## 
 - 🔄 Automação de e-mails com Python e Outlook
 - 🗃️ Sistema de controle de movimentações financeiras com Python + Access + MySQL
 
