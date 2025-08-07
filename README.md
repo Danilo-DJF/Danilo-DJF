@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Danilo Figueiredo!
  
-💼 Desenvolvedor fullstack Jnunior 
+💼 Desenvolvedor fullstack Junior 
 🛠️ Skills: Python, MySQL, Power BI, VBA, Access  
 📫 Como me encontrar: danilo.figueiredo1997@hotmail.com | [LinkedIn](https://www.linkedin.com/in/danilo-j-figueiredo-ab6246163/)  
 
